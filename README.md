@@ -1,4 +1,7 @@
 # Dethroner
+
+[![License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
 ## Install GitLab in Debian.
 
 1. Install base configuration Debian. Login as <b>root</b>.<br>
